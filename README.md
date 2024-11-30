@@ -35,5 +35,5 @@ This project is a basic REST API built with **FastAPI**. It includes a simple "H
 ## Running the Application
 
     Start the FastAPI server:
+    uvicorn main:app --reload --port 8080
 
-uvicorn main:app --reload --port 8080
