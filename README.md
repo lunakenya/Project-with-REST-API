@@ -1,4 +1,9 @@
 # FastAPI REST API Example
+## Name
+
+- Kenya Luna
+   
+# FastAPI REST API Example
 
 This project is a basic REST API built with **FastAPI**. It includes a simple "Hello, World!" endpoint and uses **Ngrok** to expose the application to the internet for testing and external access.
 
