@@ -5,8 +5,6 @@ This project is a basic REST API built with **FastAPI**. It includes a simple "H
 ## Features
 - **FastAPI**: Lightweight Python framework for building APIs.
 - **Ngrok**: Tool to create a secure tunnel to expose the API publicly.
-- **Automatic Documentation**: Includes Swagger UI at `/docs` and ReDoc at `/redoc`.
-
 ## Requirements
 - Python 3.8 or higher
 - pip (Python package manager)
@@ -34,6 +32,11 @@ This project is a basic REST API built with **FastAPI**. It includes a simple "H
 
 ## Running the Application
 
-    Start the FastAPI server:
+Start the FastAPI server:
+    
+    uvicorn main:app --reload --port 8080
 
-uvicorn main:app --reload --port 8080
+Ngrok:
+    
+    https://fc33-2800-bf0-249-1291-1c45-4f9e-e335-f8d5.ngrok-free.app/
+
