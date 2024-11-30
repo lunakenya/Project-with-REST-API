@@ -1,0 +1,40 @@
+# Virtual environment folders
+env/
+venv/
+
+# Compiled Python files
+*.pyc
+*.pyo
+__pycache__/
+
+# OS-specific system files
+.DS_Store
+Thumbs.db
+
+# VSCode configuration files
+.vscode/
+
+# Logs and temporary files
+*.log
+logs/
+
+# Ngrok configuration and logs
+*.ngrok.log
+
+# Dependency-related files
+*.egg-info/
+*.eggs/
+pip-log.txt
+
+# Testing and coverage files
+htmlcov/
+.tox/
+.cache/
+.coverage
+nosetests.xml
+coverage.xml
+
+# Sensitive or temporary files
+*.bak
+*.swp
+.idea/
