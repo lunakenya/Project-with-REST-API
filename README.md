@@ -13,8 +13,8 @@ This project is a basic REST API built with **FastAPI**. It includes a simple "H
 ## Installation
 1. Clone this repository:
    ```bash
-   git clone 
-   cd fastapi-rest-api
+   git clone https://github.com/lunakenya/Project-with-REST-API.git
+   
 2. Create a virtual environment and activate it:
    - **On Windows**:
      ```bash
