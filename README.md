@@ -40,5 +40,5 @@ Start the FastAPI server:
 
 Ngrok:
     
-    (https://fc33-2800-bf0-249-1291-1c45-4f9e-e335-f8d5.ngrok-free.app/)
+    https://fc33-2800-bf0-249-1291-1c45-4f9e-e335-f8d5.ngrok-free.app/
 
