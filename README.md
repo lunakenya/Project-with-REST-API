@@ -5,8 +5,6 @@ This project is a basic REST API built with **FastAPI**. It includes a simple "H
 ## Features
 - **FastAPI**: Lightweight Python framework for building APIs.
 - **Ngrok**: Tool to create a secure tunnel to expose the API publicly.
-- **Automatic Documentation**: Includes Swagger UI at `/docs` and ReDoc at `/redoc`.
-
 ## Requirements
 - Python 3.8 or higher
 - pip (Python package manager)
