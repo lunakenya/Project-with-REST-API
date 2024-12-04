@@ -42,8 +42,3 @@ Start the FastAPI server:
     uvicorn main:app --reload --port 8080
 
 ![imagen](https://github.com/user-attachments/assets/69a99e54-dd26-49c1-a217-99bea6b2ff90)
-
-Ngrok:
-    
-    https://13d3-2800-bf0-249-1291-1c45-4f9e-e335-f8d5.ngrok-free.app
-
